@@ -1,0 +1,5 @@
+
+Generated Association Rules:
+
+Conspiracy Theory (1997)  => Relative Fear (1994)  [confidence = 63.2%, interest = 11.0
+Relative Fear (1994)  => Conspiracy Theory (1997)  [confidence = 81.4%, interest = 11.0

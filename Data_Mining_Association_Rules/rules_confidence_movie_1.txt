@@ -1,0 +1,215 @@
+
+Generated Association Rules:
+
+Harriet the Spy (1996)  => Flubber (1997)  [confidence = 80.0%, interest = 7.9
+Big Lebowski, The (1998)  => Flubber (1997)  [confidence = 81.8%, interest = 8.0
+For Richer or Poorer (1997)  => My Fellow Americans (1996)  [confidence = 84.0%, interest = 7.1
+Big Lebowski, The (1998)  => Speechless (1994)  [confidence = 81.8%, interest = 7.1
+Prophecy, The (1995)  => To Gillian on Her 37th Birthday (1996)  [confidence = 86.2%, interest = 5.6
+Harriet the Spy (1996)  => Benny & Joon (1993)  [confidence = 86.7%, interest = 6.9
+French Kiss (1995)  => Benny & Joon (1993)  [confidence = 85.7%, interest = 6.8
+Real Genius (1985)  => Jimmy Hollywood (1994)  [confidence = 81.0%, interest = 6.7
+Sirens (1994)  => Tango Lesson, The (1997)  [confidence = 88.0%, interest = 9.1
+U.S. Marshalls (1998)  => Home for the Holidays (1995)  [confidence = 82.9%, interest = 7.7
+Perfect Candidate, A (1996)  => Home for the Holidays (1995)  [confidence = 80.0%, interest = 7.4
+Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)  => Jimmy Hollywood (1994)  [confidence = 91.4%, interest = 7.6
+Harriet the Spy (1996)  => True Crime (1995)  [confidence = 80.0%, interest = 5.2
+Love and Death on Long Island (1997)  => True Crime (1995)  [confidence = 80.0%, interest = 5.2
+Career Girls (1997)  => True Crime (1995)  [confidence = 91.3%, interest = 6.0
+Crooklyn (1994)  => True Crime (1995)  [confidence = 81.5%, interest = 5.3
+Kull the Conqueror (1997)  => True Crime (1995)  [confidence = 82.8%, interest = 5.4
+Anastasia (1997)  => My Fellow Americans (1996)  [confidence = 81.4%, interest = 6.9
+Anastasia (1997)  => True Crime (1995)  [confidence = 81.4%, interest = 5.3
+Ben-Hur (1959)  => True Crime (1995)  [confidence = 88.9%, interest = 5.8
+Down by Law (1986)  => Benny & Joon (1993)  [confidence = 80.8%, interest = 6.4
+Glimmer Man, The (1996)  => Notorious (1946)  [confidence = 82.6%, interest = 21.1
+Night of the Living Dead (1968)  => Notorious (1946)  [confidence = 84.0%, interest = 21.4
+Harriet the Spy (1996)  => Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)  [confidence = 93.3%, interest = 6.1
+French Kiss (1995)  => Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)  [confidence = 82.1%, interest = 5.4
+Burnt By the Sun (1994)  => Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)  [confidence = 80.6%, interest = 5.3
+Corrina, Corrina (1994)  => Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)  [confidence = 81.8%, interest = 5.4
+Perfect World, A (1993)  => Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)  [confidence = 81.5%, interest = 5.3
+Angels in the Outfield (1994)  => Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)  [confidence = 86.2%, interest = 5.6
+Anastasia (1997)  => Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)  [confidence = 86.0%, interest = 5.6
+His Girl Friday (1940)  => Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)  [confidence = 84.4%, interest = 5.5
+East of Eden (1955)  => Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)  [confidence = 81.5%, interest = 5.3
+James and the Giant Peach (1996)  => True Crime (1995)  [confidence = 84.0%, interest = 5.5
+Real Genius (1985)  => Dragonheart (1996)  [confidence = 81.0%, interest = 6.4
+Bronx Tale, A (1993)  => True Crime (1995)  [confidence = 89.3%, interest = 5.8
+Sirens (1994)  => Free Willy 3: The Rescue (1997)  [confidence = 84.0%, interest = 6.5
+Anastasia (1997)  => Free Willy 3: The Rescue (1997)  [confidence = 81.4%, interest = 6.3
+U.S. Marshalls (1998)  => Star Trek V: The Final Frontier (1989)  [confidence = 82.9%, interest = 3.7
+Perfect Candidate, A (1996)  => Star Trek V: The Final Frontier (1989)  [confidence = 84.4%, interest = 3.8
+Power 98 (1995)  => Star Trek V: The Final Frontier (1989)  [confidence = 86.6%, interest = 3.9
+Perez Family, The (1995)  => Star Trek V: The Final Frontier (1989)  [confidence = 81.1%, interest = 3.6
+Only You (1994)  => Star Trek V: The Final Frontier (1989)  [confidence = 100.0%, interest = 4.4
+Dumb & Dumber (1994)  => Star Trek V: The Final Frontier (1989)  [confidence = 83.8%, interest = 3.7
+Last Supper, The (1995)  => Star Trek V: The Final Frontier (1989)  [confidence = 80.4%, interest = 3.6
+Corrina, Corrina (1994)  => Star Trek V: The Final Frontier (1989)  [confidence = 86.4%, interest = 3.8
+Canadian Bacon (1994)  => Star Trek V: The Final Frontier (1989)  [confidence = 88.9%, interest = 4.0
+Casino (1995)  => Star Trek V: The Final Frontier (1989)  [confidence = 81.4%, interest = 3.6
+Dark City (1998)  => Star Trek V: The Final Frontier (1989)  [confidence = 88.5%, interest = 3.9
+Perfect World, A (1993)  => Star Trek V: The Final Frontier (1989)  [confidence = 81.5%, interest = 3.6
+Body Parts (1991)  => Star Trek V: The Final Frontier (1989)  [confidence = 80.9%, interest = 3.6
+Sophie's Choice (1982)  => Star Trek V: The Final Frontier (1989)  [confidence = 80.6%, interest = 3.6
+Gigi (1958)  => Star Trek V: The Final Frontier (1989)  [confidence = 85.4%, interest = 3.8
+Fatal Instinct (1993)  => Star Trek V: The Final Frontier (1989)  [confidence = 82.4%, interest = 3.7
+Body Snatchers (1993)  => Star Trek V: The Final Frontier (1989)  [confidence = 82.1%, interest = 3.7
+Anastasia (1997)  => Star Trek V: The Final Frontier (1989)  [confidence = 83.7%, interest = 3.7
+Man Who Would Be King, The (1975)  => Star Trek V: The Final Frontier (1989)  [confidence = 81.8%, interest = 3.6
+Jungle Book, The (1994)  => Star Trek V: The Final Frontier (1989)  [confidence = 81.6%, interest = 3.6
+Anastasia (1997)  => Day the Earth Stood Still, The (1951)  [confidence = 86.0%, interest = 7.8
+Alice in Wonderland (1951)  => Nixon (1995)  [confidence = 84.6%, interest = 10.9
+Escape from L.A. (1996)  => Old Yeller (1957)  [confidence = 87.5%, interest = 4.6
+Dumb & Dumber (1994)  => Old Yeller (1957)  [confidence = 83.8%, interest = 4.4
+Casper (1995)  => Old Yeller (1957)  [confidence = 89.7%, interest = 4.7
+Pretty Woman (1990)  => Old Yeller (1957)  [confidence = 83.3%, interest = 4.4
+Philadelphia (1993)  => Old Yeller (1957)  [confidence = 80.0%, interest = 4.2
+Circle of Friends (1995)  => Old Yeller (1957)  [confidence = 89.5%, interest = 4.7
+Canadian Bacon (1994)  => Old Yeller (1957)  [confidence = 92.6%, interest = 4.8
+Cat People (1982)  => Old Yeller (1957)  [confidence = 82.6%, interest = 4.3
+Extreme Measures (1996)  => Old Yeller (1957)  [confidence = 81.6%, interest = 4.3
+Stalingrad (1993)  => Old Yeller (1957)  [confidence = 83.1%, interest = 4.3
+Anastasia (1997)  => Old Yeller (1957)  [confidence = 86.0%, interest = 4.5
+His Girl Friday (1940)  => Old Yeller (1957)  [confidence = 87.5%, interest = 4.6
+Nutty Professor, The (1996)  => My Fellow Americans (1996)  [confidence = 81.1%, interest = 6.9
+Nutty Professor, The (1996)  => Free Willy 3: The Rescue (1997)  [confidence = 89.2%, interest = 6.9
+Super Mario Bros. (1993)  => Star Trek V: The Final Frontier (1989)  [confidence = 81.0%, interest = 3.6
+Fear of a Black Hat (1993)  => Old Yeller (1957)  [confidence = 86.4%, interest = 4.5
+Naked Gun 33 1/3: The Final Insult (1994)  => Notorious (1946)  [confidence = 85.0%, interest = 21.7
+Flintstones, The (1994)  => Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)  [confidence = 80.6%, interest = 5.3
+Heavyweights (1994)  => Old Yeller (1957)  [confidence = 85.7%, interest = 4.5
+Bridges of Madison County, The (1995)  => Jimmy Hollywood (1994)  [confidence = 82.5%, interest = 6.9
+Mary Reilly (1996)  => Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)  [confidence = 83.0%, interest = 5.4
+Spice World (1997)  => Soul Food (1997)  [confidence = 81.5%, interest = 7.4
+Spice World (1997)  => Lawnmower Man 2: Beyond Cyberspace (1996)  [confidence = 81.5%, interest = 5.6
+Spice World (1997)  => Star Trek V: The Final Frontier (1989)  [confidence = 85.2%, interest = 3.8
+Spice World (1997)  => Old Yeller (1957)  [confidence = 85.2%, interest = 4.4
+Fallen (1998)  => Mortal Kombat: Annihilation (1997)  [confidence = 97.7%, interest = 20.5
+Fallen (1998)  => Star Trek V: The Final Frontier (1989)  [confidence = 83.7%, interest = 3.7
+Anastasia (1997)  => Alien: Resurrection (1997)  [confidence = 81.4%, interest = 7.8
+Boogie Nights (1997)  => Star Trek V: The Final Frontier (1989)  [confidence = 80.6%, interest = 3.6
+Sirens (1994)  => Mad City (1997)  [confidence = 80.0%, interest = 7.2
+Fair Game (1995)  => Kiss the Girls (1997)  [confidence = 80.0%, interest = 9.5
+Carrington (1995)  => Kiss the Girls (1997)  [confidence = 90.0%, interest = 10.7
+Serial Mom (1994)  => Kiss the Girls (1997)  [confidence = 84.6%, interest = 10.1
+Desperate Measures (1998)  => True Crime (1995)  [confidence = 81.2%, interest = 5.3
+Relative Fear (1994)  => Conspiracy Theory (1997)  [confidence = 81.4%, interest = 11.0
+Murder at 1600 (1997)  => Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)  [confidence = 80.5%, interest = 5.3
+Transformers: The Movie, The (1986)  => Midnight in the Garden of Good and Evil (1997)  [confidence = 80.3%, interest = 7.5
+Bridges of Madison County, The (1995)  => Wings of the Dove, The (1997)  [confidence = 82.5%, interest = 7.0
+Sirens (1994)  => FairyTale: A True Story (1997)  [confidence = 80.0%, interest = 5.2
+Deer Hunter, The (1978)  => Ulee's Gold (1997)  [confidence = 81.2%, interest = 5.4
+Spice World (1997)  => Ulee's Gold (1997)  [confidence = 85.2%, interest = 5.7
+Dante's Peak (1997)  => Ulee's Gold (1997)  [confidence = 80.0%, interest = 5.4
+Tin Cup (1996)  => True Crime (1995)  [confidence = 82.6%, interest = 5.4
+Love and Death on Long Island (1997)  => Leaving Las Vegas (1995)  [confidence = 80.0%, interest = 4.9
+Nil By Mouth (1997)  => Leaving Las Vegas (1995)  [confidence = 85.7%, interest = 5.3
+Don Juan DeMarco (1995)  => Leaving Las Vegas (1995)  [confidence = 91.7%, interest = 5.6
+Across the Sea of Time (1995)  => Leaving Las Vegas (1995)  [confidence = 80.8%, interest = 5.0
+Real Genius (1985)  => Leaving Las Vegas (1995)  [confidence = 85.7%, interest = 5.3
+Sirens (1994)  => Leaving Las Vegas (1995)  [confidence = 92.0%, interest = 5.6
+Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)  => Leaving Las Vegas (1995)  [confidence = 85.7%, interest = 5.3
+Christmas Carol, A (1938)  => Leaving Las Vegas (1995)  [confidence = 80.0%, interest = 4.9
+Piano, The (1993)  => Leaving Las Vegas (1995)  [confidence = 81.5%, interest = 5.0
+Ben-Hur (1959)  => Leaving Las Vegas (1995)  [confidence = 81.5%, interest = 5.0
+Deer Hunter, The (1978)  => Leaving Las Vegas (1995)  [confidence = 87.5%, interest = 5.4
+Jaws 3-D (1983)  => Leaving Las Vegas (1995)  [confidence = 80.8%, interest = 5.0
+Amityville Curse, The (1990)  => Leaving Las Vegas (1995)  [confidence = 85.1%, interest = 5.2
+Bob Roberts (1992)  => Leaving Las Vegas (1995)  [confidence = 88.1%, interest = 5.4
+Heavyweights (1994)  => Leaving Las Vegas (1995)  [confidence = 90.5%, interest = 5.6
+Spice World (1997)  => Leaving Las Vegas (1995)  [confidence = 81.5%, interest = 5.0
+Sense and Sensibility (1995)  => Jimmy Hollywood (1994)  [confidence = 82.6%, interest = 6.9
+Sense and Sensibility (1995)  => Quiet Man, The (1952)  [confidence = 82.6%, interest = 10.1
+Sense and Sensibility (1995)  => Star Trek V: The Final Frontier (1989)  [confidence = 87.0%, interest = 3.9
+Sense and Sensibility (1995)  => Wings of the Dove, The (1997)  [confidence = 87.0%, interest = 7.4
+Sense and Sensibility (1995)  => Leaving Las Vegas (1995)  [confidence = 87.0%, interest = 5.3
+Good Will Hunting (1997)  => To Gillian on Her 37th Birthday (1996)  [confidence = 80.4%, interest = 5.2
+Good Will Hunting (1997)  => Benny & Joon (1993)  [confidence = 80.4%, interest = 6.4
+Good Will Hunting (1997)  => Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)  [confidence = 89.1%, interest = 5.8
+Hunt for Red October, The (1990)  => Kiss the Girls (1997)  [confidence = 84.6%, interest = 10.1
+Spice World (1997)  => Austin Powers: International Man of Mystery (1997)  [confidence = 81.5%, interest = 11.1
+Grosse Pointe Blank (1997)  => Leaving Las Vegas (1995)  [confidence = 82.8%, interest = 5.1
+Jerry Maguire (1996)  => Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)  [confidence = 81.0%, interest = 5.3
+Die Hard 2 (1990)  => True Crime (1995)  [confidence = 88.2%, interest = 5.8
+101 Dalmatians (1996)  => Star Trek V: The Final Frontier (1989)  [confidence = 92.0%, interest = 4.1
+Ridicule (1996)  => Star Trek V: The Final Frontier (1989)  [confidence = 81.6%, interest = 3.6
+Young Frankenstein (1974)  => Star Trek V: The Final Frontier (1989)  [confidence = 87.0%, interest = 3.9
+Young Frankenstein (1974)  => Starship Troopers (1997)  [confidence = 82.6%, interest = 8.6
+Bridge on the River Kwai, The (1957)  => True Crime (1995)  [confidence = 94.4%, interest = 6.2
+Sting, The (1973)  => Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)  [confidence = 81.3%, interest = 5.3
+Real Genius (1985)  => 12 Angry Men (1957)  [confidence = 81.0%, interest = 7.6
+Widows' Peak (1994)  => 12 Angry Men (1957)  [confidence = 100.0%, interest = 9.4
+Cliffhanger (1993)  => 12 Angry Men (1957)  [confidence = 89.5%, interest = 8.5
+Anastasia (1997)  => 12 Angry Men (1957)  [confidence = 83.7%, interest = 7.9
+Good, The Bad and The Ugly, The (1966)  => Leaving Las Vegas (1995)  [confidence = 84.5%, interest = 5.2
+Brazil (1985)  => To Gillian on Her 37th Birthday (1996)  [confidence = 83.3%, interest = 5.4
+Brazil (1985)  => Benny & Joon (1993)  [confidence = 87.5%, interest = 6.9
+Brazil (1985)  => Picnic (1955)  [confidence = 83.3%, interest = 15.4
+Brazil (1985)  => Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)  [confidence = 95.8%, interest = 6.3
+On Golden Pond (1981)  => Leaving Las Vegas (1995)  [confidence = 80.0%, interest = 4.9
+Reservoir Dogs (1992)  => Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)  [confidence = 95.7%, interest = 6.3
+Angels in the Outfield (1994)  => Willy Wonka and the Chocolate Factory (1971)  [confidence = 89.7%, interest = 6.7
+Nutty Professor, The (1996)  => Willy Wonka and the Chocolate Factory (1971)  [confidence = 81.1%, interest = 6.0
+Swingers (1996)  => True Crime (1995)  [confidence = 80.8%, interest = 5.3
+D3: The Mighty Ducks (1996)  => Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)  [confidence = 83.0%, interest = 5.4
+Mr. Smith Goes to Washington (1939)  => True Crime (1995)  [confidence = 81.2%, interest = 5.3
+For Richer or Poorer (1997)  => Kansas City (1996)  [confidence = 92.0%, interest = 6.0
+Air Up There, The (1994)  => Kansas City (1996)  [confidence = 89.5%, interest = 5.9
+Fair Game (1995)  => Kansas City (1996)  [confidence = 80.0%, interest = 5.2
+Real Genius (1985)  => Kansas City (1996)  [confidence = 83.3%, interest = 5.5
+Christmas Carol, A (1938)  => Kansas City (1996)  [confidence = 92.0%, interest = 6.0
+Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995)  => Kansas City (1996)  [confidence = 82.6%, interest = 5.4
+Rock, The (1996)  => Leaving Las Vegas (1995)  [confidence = 80.7%, interest = 5.0
+Funeral, The (1996)  => Home Alone (1990)  [confidence = 84.0%, interest = 5.8
+Sirens (1994)  => Home Alone (1990)  [confidence = 84.0%, interest = 5.8
+Rebecca (1940)  => So I Married an Axe Murderer (1993)  [confidence = 81.5%, interest = 5.7
+East of Eden (1955)  => So I Married an Axe Murderer (1993)  [confidence = 81.5%, interest = 5.7
+Frighteners, The (1996)  => So I Married an Axe Murderer (1993)  [confidence = 80.6%, interest = 5.6
+Firm, The (1993)  => Mad City (1997)  [confidence = 81.6%, interest = 7.3
+Faster Pussycat! Kill! Kill! (1965)  => Microcosmos: Le peuple de l'herbe (1996)  [confidence = 81.8%, interest = 22.2
+Faster Pussycat! Kill! Kill! (1965)  => True Crime (1995)  [confidence = 81.8%, interest = 5.4
+Faster Pussycat! Kill! Kill! (1965)  => Lord of Illusions (1995)  [confidence = 90.9%, interest = 6.6
+Faster Pussycat! Kill! Kill! (1965)  => Leaving Las Vegas (1995)  [confidence = 81.8%, interest = 5.0
+Maverick (1994)  => True Crime (1995)  [confidence = 81.4%, interest = 5.3
+Forrest Gump (1994)  => True Crime (1995)  [confidence = 84.6%, interest = 5.5
+Funeral, The (1996)  => Three Colors: Red (1994)  [confidence = 86.0%, interest = 5.2
+Harriet the Spy (1996)  => Three Colors: Red (1994)  [confidence = 90.0%, interest = 5.4
+Don Juan DeMarco (1995)  => Three Colors: Red (1994)  [confidence = 83.3%, interest = 5.0
+Prophecy, The (1995)  => Three Colors: Red (1994)  [confidence = 82.8%, interest = 5.0
+Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)  => Three Colors: Red (1994)  [confidence = 82.9%, interest = 5.0
+Anastasia (1997)  => Three Colors: Red (1994)  [confidence = 86.0%, interest = 5.2
+Down by Law (1986)  => Three Colors: Red (1994)  [confidence = 80.8%, interest = 4.9
+Bridges of Madison County, The (1995)  => Three Colors: Red (1994)  [confidence = 87.5%, interest = 5.3
+Spice World (1997)  => Three Colors: Red (1994)  [confidence = 85.2%, interest = 5.1
+Good Will Hunting (1997)  => Three Colors: Red (1994)  [confidence = 84.8%, interest = 5.1
+Field of Dreams (1989)  => Three Colors: Red (1994)  [confidence = 81.0%, interest = 4.9
+Dances with Wolves (1990)  => Three Colors: Red (1994)  [confidence = 83.3%, interest = 5.0
+Terminator 2: Judgment Day (1991)  => Three Colors: Red (1994)  [confidence = 81.2%, interest = 4.9
+Sense and Sensibility (1995)  => Pulp Fiction (1994)  [confidence = 82.6%, interest = 12.2
+Natural Born Killers (1994)  => All About Eve (1950)  [confidence = 90.0%, interest = 8.7
+Natural Born Killers (1994)  => Room with a View, A (1986)  [confidence = 85.0%, interest = 13.5
+Hoop Dreams (1994)  => Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)  [confidence = 81.0%, interest = 5.3
+Billy Madison (1995)  => Star Trek V: The Final Frontier (1989)  [confidence = 80.6%, interest = 3.6
+Nadja (1994)  => Dragonheart (1996)  [confidence = 82.9%, interest = 6.5
+Nadja (1994)  => Kansas City (1996)  [confidence = 85.7%, interest = 5.6
+Apollo 13 (1995)  => Leaving Las Vegas (1995)  [confidence = 80.0%, interest = 4.9
+Brothers McMullen, The (1995)  => Old Yeller (1957)  [confidence = 87.0%, interest = 4.5
+Young Frankenstein (1974)  => Mighty Aphrodite (1995)  [confidence = 82.6%, interest = 5.2
+Aristocats, The (1970)  => Mighty Aphrodite (1995)  [confidence = 82.6%, interest = 5.2
+Usual Suspects, The (1995)  => Old Yeller (1957)  [confidence = 83.0%, interest = 4.3
+Funeral, The (1996)  => Twelve Monkeys (1995)  [confidence = 88.0%, interest = 5.4
+Harriet the Spy (1996)  => Twelve Monkeys (1995)  [confidence = 90.0%, interest = 5.5
+Mortal Kombat: Annihilation (1997)  => Twelve Monkeys (1995)  [confidence = 82.5%, interest = 5.1
+Dumb & Dumber (1994)  => Twelve Monkeys (1995)  [confidence = 81.1%, interest = 5.0
+Prophecy, The (1995)  => Twelve Monkeys (1995)  [confidence = 82.8%, interest = 5.1
+Canadian Bacon (1994)  => Twelve Monkeys (1995)  [confidence = 81.5%, interest = 5.0
+Body Snatchers (1993)  => Twelve Monkeys (1995)  [confidence = 89.7%, interest = 5.5
+Anastasia (1997)  => Twelve Monkeys (1995)  [confidence = 86.0%, interest = 5.3
+Spice World (1997)  => Twelve Monkeys (1995)  [confidence = 81.5%, interest = 5.0
+G.I. Jane (1997)  => Twelve Monkeys (1995)  [confidence = 84.7%, interest = 5.2
+Good Will Hunting (1997)  => Twelve Monkeys (1995)  [confidence = 82.6%, interest = 5.1
+Brazil (1985)  => Twelve Monkeys (1995)  [confidence = 83.3%, interest = 5.1
+Reservoir Dogs (1992)  => Twelve Monkeys (1995)  [confidence = 87.0%, interest = 5.3
+Sirens (1994)  => Toy Story (1995)  [confidence = 80.0%, interest = 8.3
+Spice World (1997)  => Toy Story (1995)  [confidence = 81.5%, interest = 8.4
